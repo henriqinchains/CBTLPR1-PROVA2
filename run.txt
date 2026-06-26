@@ -1,4 +1,3 @@
-run:
 Consulta P1:
 Data: 22/06/2026
 Hora: 10:30:00
