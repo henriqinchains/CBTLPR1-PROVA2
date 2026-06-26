@@ -1,0 +1,39 @@
+run:
+Consulta P1:
+Data: 22/06/2026
+Hora: 10:30:00
+Paciente: Henrique
+M dico: Dr. Silva
+Digite o dia: 12
+Digite o m s: 07
+Digite o ano: 2006
+Digite a hora (0-23): 9
+Digite os minutos (0-59): 30
+Digite os segundos (0-59): 40
+Digite o nome do paciente: marcos
+Digite o nome do m dico: rodrigo
+
+Consulta P2:
+Data: 12/07/2006
+Hora: 09:30:40
+Paciente: marcos
+M dico: rodrigo
+
+Alterando valores de P1...
+Digite o dia: 13
+Digite o m s: 08
+Digite o ano: 2008
+Digite a hora (0-23): 10
+Digite os minutos (0-59): 40
+Digite os segundos (0-59): 50
+Digite o nome do paciente: sophia
+Digite o nome do m dico: bittencourt
+
+Consulta P1 (alterada):
+Data: 13/08/2008
+Hora: 10:40:50
+Paciente: sophia
+M dico: bittencourt
+
+Quantidade de consultas criadas: 2
+BUILD SUCCESSFUL (total time: 1 minute 16 seconds)
